@@ -1,0 +1,38 @@
+html {
+	background-color: #333;
+}
+
+.ng-scope {
+	background-color: #333;
+}
+
+.home {
+	width: 600px;
+	margin: 30px auto;
+	color: #fff;
+	background-color: #333;
+}
+
+.post-array {
+	border-bottom: solid 2px;
+}
+
+.post-array h2 {
+	margin: 0;
+	padding: 0;
+	font-weight: 300;
+}
+.post-array h3 {
+	color: green;
+	font-weight: 200;
+	font-size: 18px;
+}
+
+.post {
+	padding: 25px 0;
+	border-top: solid 2px;
+}
+
+.home .btn {
+	border-radius: 0px;
+}
